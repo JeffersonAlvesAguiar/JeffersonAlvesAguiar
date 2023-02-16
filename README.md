@@ -24,7 +24,7 @@
 
 ## Experiência profissional
 
-  Iniciei minha carreira oficialmente na tecnologia em 2022 fazendo parte de um projeto para uma startup durante 6 meses do qual tinha como objetivo desenvolver uma plataforma de curso. No projeto assumi a função de desenvolvedor Front End onde utilizei as tecnologias, ReactJS, Type Script e Style Component.
+  Iniciei minha carreira oficialmente na tecnologia em 2022 fazendo parte de um projeto para uma startup durante 6 meses do qual tinha como objetivo desenvolver uma plataforma de curso. No projeto assumi a função de desenvolvedor Front End onde utilizei as tecnologias, ReactJS, Type Script e Styled-Components.
   
   Atualmente trabalho em uma startup especializada em assegurar os pertences dos caminhoneiros. No dia dia atuo na função de desenvolvedor Front End.
   Faço uso das tecnologias, Angular, Type Script e SCSS...
