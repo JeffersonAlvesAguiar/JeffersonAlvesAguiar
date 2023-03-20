@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffo_alves/)
 
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAlvesAguiar&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAlvesAguiar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo
 
