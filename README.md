@@ -1,6 +1,8 @@
 ### Olá! Eu sou Jefferson Alves...✌️
 
-[![Site{:target="_blank"}](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffersonalvesaguiar.github.io/MeuSite/)
+<a target="_blank">
+[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffersonalvesaguiar.github.io/MeuSite/)
+</a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-alves-22a76a208/)
 
 
