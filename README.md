@@ -2,7 +2,7 @@
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffersonalvesaguiar.github.io/MeuSite/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-alves-22a76a208/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffo_alves/)
+
 
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAlvesAguiar&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAlvesAguiar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
