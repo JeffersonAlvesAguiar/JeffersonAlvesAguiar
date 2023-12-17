@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jefferson Alves...✌️
 
 
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffersonalvesaguiar.github.io/MeuSite/)
+[![Site]_blank(https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jeffersonalvesaguiar.github.io/MeuSite/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-alves-22a76a208/)
 
 
@@ -25,8 +25,5 @@
 
 ## Experiência profissional
 
-  Iniciei minha carreira oficialmente na tecnologia em 2022 fazendo parte de um projeto para uma startup durante 6 meses do qual tinha como objetivo desenvolver uma plataforma de curso. No projeto assumi a função de desenvolvedor Front End onde utilizei as tecnologias, ReactJS, Type Script e Styled-Components.
-  
-  Atualmente trabalho em uma startup especializada em assegurar os pertences dos caminhoneiros. No dia dia atuo na função de desenvolvedor Front End.
-  Faço uso das tecnologias, Angular, Type Script e SASS...
+Olá, pessoal! 👋 Desenvolvedor Front-End com experiência em JavaScript, React.js, Styled-components, Angular, SCSS, além de habilidades em ferramentas de design como Figma e AdobeXD. Empenhado em criar interfaces envolventes e, de olho no futuro, buscando a jornada para me tornar um desenvolvedor Full Stack. 🚀
   
