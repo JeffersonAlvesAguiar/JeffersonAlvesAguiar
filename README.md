@@ -1,6 +1,6 @@
 ### Olá! Me chamo Jefferson Alves...✌️
 Trabalho com JavaScript, TypeScript, React.js, Styled-components, Angular, SCSS, tenho familiaridade com metodologias ágeis, Scrum e Kanban. 
-Futuramente pretendo me tornar Dev Full Stack, minha escolha para Back End são C# ASP.NET Core🚀
+Futuramente pretendo me tornar Dev Full Stack...🚀
 
 <br/>
 
